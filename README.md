@@ -1,40 +1,56 @@
-# 👋 Hello, I'm Benjamin_1x
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=BENJAMlN_1X&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Elite%20FiveM%20Script%20Architecture&descAlignY=60&descSize=20" width="100%" />
 
-### 🚀 Full-Stack FiveM Developer & Lua Specialist
-I am a passionate developer focused on creating **high-quality, optimized, and realistic scripts** for the FiveM community. I specialize in the **QBCore** framework and modern UI integration.
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Expertise-FiveM%20%2F%20QBCore-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Optimization-High%20Performance-orange?style=flat-square" />
+  </p>
+</div>
 
----
+<br/>
 
-### 🛠 My Tech Stack
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VScode](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
 
----
+  ### 🚀 Delivering High-End FiveM Experiences
+  *Specializing in complex logic, UI/UX integration, and server-side optimization.*
 
-### 📂 Featured Project: DADDT Parking System
-A professional **Street Parking System** designed for realism.
-* **Persistence:** Saves vehicle state, fuel, and health across restarts.
-* **Performance:** Highly optimized with low MS usage.
-* **Integration:** Full support for `ox_lib` and `QBCore`.
+  <br/>
 
----
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+  [![YouTube](https://img.shields.io/badge/Showcase-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 
-### 📊 GitHub Analysis
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Benjamin_1x&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin_1x&layout=compact&theme=tokyonight" />
-</p>
-
-### 📈 Contribution Graph
-![Benjamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benjamin_1x&theme=tokyonight)
+</div>
 
 ---
 
-### 📫 Get in Touch
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+### 📂 Top Tier Project: DADDT Parking System
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin_1x&repo=your-repo-name&theme=tokyonight&show_owner=true" />
+</div>
+
+> [!IMPORTANT]
+> **Why DADDT Parking?**
+> - 💾 **Persistence:** Every vehicle state is cached & restored with precision.
+> - ⚡ **Performance:** Developed with a "Zero-Idle" mindset (0.01ms).
+> - 🔌 **Integration:** Plug-and-Play for `ox_lib` and `QBCore` servers.
 
 ---
+
+### 🛠 Core Competencies
+<div align="center">
+
+| Feature | Tech Used | Capability |
+| :--- | :--- | :--- |
+| **Backend** | `Lua`, `Node.js` | Advanced Logic & API Integration |
+| **Frontend** | `JavaScript`, `NUI` | Modern & Responsive UI Design |
+| **Database** | `MySQL`, `MariaDB` | Optimized Queries & Data Handling |
+| **Tools** | `Git`, `VS Code` | Clean Code & Version Control |
+
+</div>
+
+---
+
+### 🏆 Coding Progress & Metrics
+<div
