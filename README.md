@@ -6,10 +6,11 @@ I am a passionate developer focused on creating **high-quality, optimized, and r
 ---
 
 ### 🛠 My Tech Stack
-* **Languages:** `Lua`, `SQL`, `JavaScript`
-* **Frameworks:** `QBCore`, `ESX`
-* **Tools:** `ox_lib`, `oxmysql`, `Git`, `VS Code`
-* **Front-end:** `HTML`, `CSS` (React/Vue for UI)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VScode](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -21,15 +22,19 @@ A professional **Street Parking System** designed for realism.
 
 ---
 
-### 📊 GitHub Stats
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin_1x&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin_1x&layout=compact&theme=tokyonight)
+### 📊 GitHub Analysis
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Benjamin_1x&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin_1x&layout=compact&theme=tokyonight" />
+</p>
+
+### 📈 Contribution Graph
+![Benjamin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benjamin_1x&theme=tokyonight)
 
 ---
 
 ### 📫 Get in Touch
-* **Discord:** `YourDiscordName`
-* **Portfolio:** [Link to your work]
-* **Work Status:** Available for custom script development & optimization.
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 
 ---
