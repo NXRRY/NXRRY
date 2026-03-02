@@ -27,7 +27,7 @@
 
 ### 📂 Top Tier Project: DADDT Parking System
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin_1x&repo=your-repo-name&theme=tokyonight&show_owner=true" />
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Benjamin_1x&repo=your-repo-name&theme=tokyonight&show_owner=true](https://github.com/NXRRY/nx-parking)" />
 </div>
 
 > [!IMPORTANT]
